@@ -1,2 +1,2 @@
 # D-hub
-interior designer
+Interior designer
